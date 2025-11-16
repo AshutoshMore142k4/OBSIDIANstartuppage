@@ -2,23 +2,23 @@ export const features = [
   {
     id: "0",
     icon: "/images/feature-1.png",
-    caption: "Easy integration",
-    title: "Work smarter not harder",
-    text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
+    caption: "Custom Software Development",
+    title: "Tailored Solutions for Your Business",
+    text: "OBSIDIAN specializes in developing custom software applications that align with your business objectives. Our team delivers scalable, maintainable solutions using industry best practices and cutting-edge technologies.",
     button: {
       icon: "/images/magictouch.svg",
-      title: "Watch the demo",
+      title: "View Case Studies",
     },
   },
   {
     id: "1",
     icon: "/images/feature-2.png",
-    caption: "Secure & trustworthy",
-    title: "Sleep easy, we got your back",
-    text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.",
+    caption: "Enterprise Security & Compliance",
+    title: "Protecting Your Digital Assets",
+    text: "Security is paramount in our development process. OBSIDIAN implements enterprise-grade security measures, ensuring regulatory compliance and protecting your sensitive business data with advanced encryption and access controls.",
     button: {
       icon: "/images/docs.svg",
-      title: "Read the docs",
+      title: "Security Overview",
     },
   },
 ];
@@ -27,85 +27,85 @@ export const details = [
   {
     id: "0",
     icon: "/images/detail-1.png",
-    title: "AI automated video editing",
+    title: "Cloud Infrastructure Services",
   },
   {
     id: "1",
     icon: "/images/detail-2.png",
-    title: "Collaborate with your team",
+    title: "Agile Development Teams",
   },
   {
     id: "2",
     icon: "/images/detail-3.png",
-    title: "Ultra fast cloud-engine",
+    title: "Enterprise Architecture",
   },
   {
     id: "3",
     icon: "/images/detail-4.png",
-    title: "24 / 7 Customer support",
+    title: "24/7 Technical Support",
   },
 ];
 
 export const faq = [
   {
     id: "0",
-    question: "How easy is it to setup Xora?",
+    question: "What software development services does OBSIDIAN provide?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "OBSIDIAN offers comprehensive software development services including custom application development, enterprise solutions, cloud migration, API integration, and legacy system modernization. Our experienced team works with modern technology stacks to deliver robust, scalable solutions.",
   },
   {
     id: "1",
-    question: "Can I integrate Xora with other platforms?",
+    question: "Can OBSIDIAN integrate with our existing enterprise systems?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes, we specialize in enterprise integration services. Our team has extensive experience integrating with various platforms, databases, and third-party APIs. We ensure seamless data flow and system interoperability while maintaining security and performance standards.",
   },
   {
     id: "2",
-    question: "How often do you add new content?",
+    question: "What is your development methodology?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "OBSIDIAN follows Agile and DevOps methodologies to ensure iterative development, continuous integration, and rapid delivery. We maintain transparent communication throughout the project lifecycle and provide regular progress updates to stakeholders.",
   },
   {
     id: "3",
-    question: "What your refund policy?",
+    question: "What is your service agreement and support policy?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "We offer flexible service agreements tailored to your business needs. Our support packages include maintenance, bug fixes, performance optimization, and feature enhancements. All agreements include defined SLAs with guaranteed response times.",
   },
   {
     id: "4",
-    question: "Do you have corporate plans?",
+    question: "Do you offer enterprise and corporate service packages?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes, OBSIDIAN provides customized enterprise packages that include dedicated development teams, priority support, and comprehensive service offerings. We work with organizations of all sizes to deliver solutions that scale with your business.",
   },
   {
     id: "5",
-    question: "What happens when I’m out of storage?",
+    question: "How does OBSIDIAN handle data security and compliance?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Data security is our top priority. We implement industry-standard security protocols, encryption, and access controls. OBSIDIAN ensures compliance with relevant regulations including GDPR, HIPAA, and SOC 2, depending on your industry requirements.",
   },
   {
     id: "6",
-    question: "Can I upgrade my plan?",
+    question: "Can we scale our service plan as our business grows?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Absolutely. Our service plans are designed to scale with your business. You can upgrade your plan at any time, add additional resources, or expand service offerings. We provide flexible arrangements to accommodate your changing needs.",
   },
   {
     id: "7",
-    question: "How do I invite my team?",
+    question: "How do you onboard new development team members?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "OBSIDIAN follows a structured onboarding process that includes knowledge transfer, documentation review, and mentorship. We ensure new team members understand your business requirements and technical architecture before contributing to active projects.",
   },
   {
     id: "8",
-    question: "Do you offer training for individuals and teams?",
+    question: "Do you provide technical training and knowledge transfer?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes, we offer comprehensive technical training programs for both individuals and teams. This includes system documentation, hands-on training sessions, and ongoing knowledge transfer to ensure your internal team can effectively maintain and operate the solutions we deliver.",
   },
   {
     id: "9",
-    question: "I’m locked out of my account what do I do?",
+    question: "What is your incident response and support process?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "OBSIDIAN maintains a 24/7 technical support team with defined escalation procedures. Critical issues receive immediate attention, and we provide regular status updates throughout the resolution process. All incidents are documented and reviewed for continuous improvement.",
   },
 ];
 
@@ -115,12 +115,12 @@ export const plans = [
     title: "Core",
     priceMonthly: 19,
     priceYearly: 12,
-    caption: "Best for solo creators",
+    caption: "Ideal for startups",
     features: [
-      "100MB Cloud storage",
-      "100+ prompt templates",
-      "5 projects",
-      "24/7 support",
+      "Dedicated developer support",
+      "Cloud infrastructure setup",
+      "Up to 3 concurrent projects",
+      "24/7 technical assistance",
     ],
     icon: "/images/circle.svg",
     logo: "/images/plan-1.png",
@@ -130,12 +130,12 @@ export const plans = [
     title: "Overdrive",
     priceMonthly: 79,
     priceYearly: 59,
-    caption: "Most popular plan",
+    caption: "Most popular for growing businesses",
     features: [
-      "All Starter features",
-      "1TB additional storage",
-      "Unlimited projects",
-      "Analytics",
+      "All Core features included",
+      "Full-stack development team",
+      "Unlimited project scope",
+      "Performance analytics & reporting",
     ],
     icon: "/images/triangle.svg",
     logo: "/images/plan-2.png",
@@ -145,12 +145,12 @@ export const plans = [
     title: "Team",
     priceMonthly: 39,
     priceYearly: 29,
-    caption: "Exclusively for teams",
+    caption: "Enterprise solutions",
     features: [
       "All Overdrive features",
-      "10TB additional storage",
-      "50% off per member",
-      "Real-time collaboration",
+      "Dedicated DevOps infrastructure",
+      "Volume pricing discounts",
+      "Priority escalation & support",
     ],
     icon: "/images/hexagon.svg",
     logo: "/images/plan-3.png",
@@ -161,50 +161,50 @@ export const testimonials = [
   {
     id: "0",
     name: "Jessica Saunders",
-    role: "Globalnomads",
+    role: "CTO, GlobalTech Solutions",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
-      "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+      "OBSIDIAN's technical expertise and professional support have been exceptional. Their team consistently delivers high-quality solutions that exceed our expectations.",
   },
   {
     id: "1",
     name: "Mark Erixon",
-    role: "Vid capital intl",
+    role: "Director of IT, Enterprise Capital",
     avatarUrl: "/images/testimonials/mark-erixon.png",
     comment:
-      "I was skeptical at first, but now I can't imagine our content operations without it. It's that impactful.",
+      "Working with OBSIDIAN has transformed our digital infrastructure. Their strategic approach and technical proficiency have positioned us for sustained growth.",
   },
   {
     id: "2",
     name: "Melanie Hurst",
-    role: "Cyberleap",
+    role: "Operations Manager, Cyberleap",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment:
-      "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
+      "The implementation process was seamless and professional. OBSIDIAN's commitment to understanding our business requirements resulted in a solution that precisely meets our needs.",
   },
   {
     id: "3",
     name: "Alicia Barker",
-    role: "Cyberleap",
+    role: "VP Engineering, Cyberleap",
     avatarUrl: "/images/testimonials/alicia-barker.png",
     comment:
-      "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
+      "OBSIDIAN's analytics and reporting capabilities have provided invaluable business intelligence. Their solutions have significantly enhanced our decision-making processes.",
   },
   {
     id: "4",
     name: "Becky Snider",
-    role: "Floclips",
+    role: "Project Lead, TechFlow Systems",
     avatarUrl: "/images/testimonials/becky-snider.png",
     comment:
-      "Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
+      "Partnering with OBSIDIAN has proven to be a strategic advantage. Their professional service delivery and technical excellence have delivered measurable results for our organization.",
   },
   {
     id: "5",
     name: "Jim Bradley",
-    role: "Vid capital intl",
+    role: "Chief Information Officer, Enterprise Capital",
     avatarUrl: "/images/testimonials/jim-bradley.png",
     comment:
-      "The efficiency boost is undeniable. This platform has transformed our workflow, forever.",
+      "OBSIDIAN's solutions have fundamentally improved our operational efficiency. Their enterprise-grade approach and commitment to excellence make them an invaluable technology partner.",
   },
 ];
 

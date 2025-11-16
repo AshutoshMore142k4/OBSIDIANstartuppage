@@ -41,7 +41,7 @@ const Header = () => {
     >
       <div className="container flex h-14 items-center max-lg:px-5">
         <a className="lg:hidden flex-1 cursor-pointer z-2">
-          <img src="/images/xora.svg" width={115} height={55} alt="logo" />
+          <h1 className="text-2xl font-bold text-p1">OBSIDIAN</h1>
         </a>
 
         <div
@@ -69,12 +69,7 @@ const Header = () => {
                       "max-lg:hidden transition-transform duration-500 cursor-pointer",
                     )}
                   >
-                    <img
-                      src="/images/xora.svg"
-                      width={160}
-                      height={55}
-                      alt="logo"
-                    />
+                    <h1 className="text-3xl font-bold text-p1">OBSIDIAN</h1>
                   </LinkScroll>
                 </li>
 
