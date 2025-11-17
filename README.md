@@ -1,3 +1,6 @@
+**Live link**
+https://obsidia-nstartuppage.vercel.app/
+
 **Installation**
 
 Install the project dependencies using npm:
