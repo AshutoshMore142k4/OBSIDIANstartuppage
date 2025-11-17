@@ -1,5 +1,3 @@
-`
-
 **Installation**
 
 Install the project dependencies using npm:
